@@ -37,5 +37,19 @@ namespace Userregnormal
                 return false;
             }
         }
+
+        public bool Pin(string email)
+        {
+            Regex CheckPin = new Regex("^\\d{5}$");
+            Match match = CheckPin.Match(email);
+            if (match.Success)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

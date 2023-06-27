@@ -24,11 +24,11 @@ namespace UserRegTest
         }
 
         [TestMethod]
-        [DataRow("sukanya@gmail.con", true)]
-        [DataRow("sukanya@com", false)]
-        public void CheckEmail_SHouldReturn_True_IfValid(string email, bool expected)
+        [DataRow("12345", true)]
+        [DataRow("123", false)]
+        public void CheckPin_SHouldReturn_True_IfValid(string pin, bool expected)
         {
-            bool result = methood.Email(email);
+            bool result = methood.Pin(pin);
             Assert.AreEqual(expected, result);
         }
     }
