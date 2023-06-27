@@ -1,0 +1,15 @@
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\bin\Debug\net6.0\Userregnormal.exe
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\bin\Debug\net6.0\Userregnormal.deps.json
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\bin\Debug\net6.0\Userregnormal.runtimeconfig.json
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\bin\Debug\net6.0\Userregnormal.dll
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\bin\Debug\net6.0\Userregnormal.pdb
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\Userregnormal.csproj.AssemblyReference.cache
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\Userregnormal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\Userregnormal.AssemblyInfoInputs.cache
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\Userregnormal.AssemblyInfo.cs
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\Userregnormal.csproj.CoreCompileInputs.cache
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\Userregnormal.dll
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\refint\Userregnormal.dll
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\Userregnormal.pdb
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\Userregnormal.genruntimeconfig.cache
+C:\Users\Sukanay\source\repos\UserRegTest\Userregnormal\obj\Debug\net6.0\ref\Userregnormal.dll
